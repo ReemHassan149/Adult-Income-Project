@@ -3,11 +3,11 @@ This report provides a professional summary and analysis based on a standard "Ad
 
 # Executive Summary
 This dashboard analyzes the relationship between demographic characteristics (Age, Sex, Race) and professional attributes (Education, Occupation, Work Class) to identify key drivers of high income. The primary goal is to provide stakeholders with actionable insights into workforce trends and economic disparities.
-- Python script for cleaning  http://localhost:8888/notebooks/Untitled10.ipynb
+- ### Python script for cleaning  http://localhost:8888/notebooks/Untitled10.ipynb
 - ### Raw Data [adult.csv](https://github.com/user-attachments/files/24371796/adult.csv)
 - ### Cleaned Data [adult_cleaned.csv](https://github.com/user-attachments/files/24371824/adult_cleaned.csv)
 
-- DashBoard
+- ### DashBoard
 ![Education](https://github.com/user-attachments/assets/5ae8a5e5-7e7d-4fc7-8d3a-0b3944f6dac8)
 ![Sex](https://github.com/user-attachments/assets/624d21aa-ab36-4ce0-a26d-38e3286bf7b5)
 ![Occupation](https://github.com/user-attachments/assets/86696dcb-cfa6-4d61-a0ea-86bdde95d0b1)
@@ -65,7 +65,4 @@ Based on the data, the following actions are recommended to address income inequ
 - **Scalability**: If you wanted to add new data (like income data from a different year), you could easily plug it into the existing dimensions..
 
 **- Visual Design**: Used Slicer Panels for demographics to maximize space for core KPIs like "Total High Earners" and "Average Hours Worked".
-
-### Raw Data [adult.csv](https://github.com/user-attachments/files/24371796/adult.csv)
-### Cleaned Data [adult_cleaned.csv](https://github.com/user-attachments/files/24371824/adult_cleaned.csv)
 
